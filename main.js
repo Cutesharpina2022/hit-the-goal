@@ -2,8 +2,8 @@ var canvas = new fabric.Canvas('myCanvas')
 
 ball_x=0;
 ball_y=0;
-hole_x=400;
-hole_y=800;
+hole_x=800;
+hole_y=400;
 
 
 block_image_width = 5;
